@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⏰ Cron Expression Generator
+# 🧩 Cron Expression Generator
 
 ### Use Cron Expression Generator free on ToolAdda — quick, accurate, and browser-based.
 
